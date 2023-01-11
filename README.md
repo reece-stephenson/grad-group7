@@ -21,4 +21,5 @@ Group 7 for the BBD grad program
 - Classes
     - Classes must be in separate files
     - Classes need to be in appropriate packages
+-Each function should have at least one unit test, except setters and getters
 
