@@ -6,7 +6,7 @@ Group 7 for the BBD grad program
 - Classes
     - Classes must be in separate files
     - Classes need to be in appropriate packages
-    - 
+
 - Each function should have at least one unit test, except setters and getters
 - Document all functions using javadoc
 - Name variables appropriately
@@ -18,8 +18,8 @@ Group 7 for the BBD grad program
     - TitleCase for Classes
     - lowercase for packages 
 
-# ESlint Configs
-- Use ESlint for checking code issues such as:
+# Checkstyle Configs
+- Use Checkstyle for checking code issues such as:
     - Every if must have an else (or return as exceptions)
     - NO GLOBAL VARIABLES
     - No empty catch statements
