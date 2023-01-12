@@ -23,4 +23,10 @@ Group 7 for the BBD grad program
     - TitleCase for Classes
     - lowercase for packages 
 
+# Testing
+- JUnit framework
 
+# Notes / To-adds 
+- Package management? Maven, Gradle? 
+- Lambda styling?
+- packaging project? 
